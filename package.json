@@ -1,7 +1,9 @@
 {
   "name": "test",
   "version": "",
-  "scripts": "node index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
     "twit": "^2.2.11"
   }

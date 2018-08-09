@@ -5,6 +5,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "twit": "^2.2.11"
+    "twit": "^2.2.11",
+    "typescript": "^3.0.1"
   }
 }
